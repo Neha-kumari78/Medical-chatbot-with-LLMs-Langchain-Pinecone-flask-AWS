@@ -1,7 +1,7 @@
 flask
 gunicorn
 langchain-groq
-langchain-pinecone
+langchain-pinecone==0.1.0
 sentence-transformers
 pypdf
 python-dotenv

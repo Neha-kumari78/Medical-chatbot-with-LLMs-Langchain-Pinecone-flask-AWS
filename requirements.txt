@@ -1,7 +1,6 @@
-langchain==0.3.7
-flask==3.1.1
-sentence-transformers==2.7.0
-pypdf==5.1.0
-python-dotenv==1.0.1
-langchain-pinecone==0.2.0
+streamlit
+langchain
 langchain-groq
+langchain-pinecone
+python-dotenv
+sentence-transformers

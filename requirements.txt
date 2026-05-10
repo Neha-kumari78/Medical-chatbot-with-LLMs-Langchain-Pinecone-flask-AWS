@@ -1,6 +1,10 @@
-streamlit
+flask
+gunicorn
 langchain
+langchain-community
+langchain-core
 langchain-groq
 langchain-pinecone
 python-dotenv
 sentence-transformers
+pypdf

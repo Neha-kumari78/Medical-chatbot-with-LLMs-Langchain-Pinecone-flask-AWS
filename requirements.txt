@@ -1,7 +1,10 @@
 flask
 gunicorn
+langchain
+langchain-community
 langchain-groq
 langchain-pinecone==0.1.0
 sentence-transformers
 pypdf
 python-dotenv
+faiss-cpu
